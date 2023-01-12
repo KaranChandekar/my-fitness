@@ -1,33 +1,22 @@
+# My Fitness
 
-# Gym-Webpage
+My Fitness is a gym website created using HTML, CSS and JavaScript - [Take a look](https://my-fitness-karanchandekar.vercel.app/)
 
-Simple gym advertising webpage using html and css
+![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)
 
-## Author
+## Tech Stack
 
-- [@KaranChandekar](https://www.github.com/KaranChandekar)
+- HTML
+- CSS
+- JavaScript
+- Bootstrap (CSS Framework)
+- jQuery (JavaScript Framework)
+- smoothscroll (JavaScript library)
+- - [Awesomeness](https://www.wikihow.com/Love-Programming) - Strictly for the love of coding :-)
 
+## Acknowledgments
 
-## Contributing
+- To anyone who is reading this... _You're awesome!_
 
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at twitter @karan_chandekar
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-web-one-lovat.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-chandekar-a87263219/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karanchandekar1)
-
-
-## Screenshots
-
-[![Screenshot-11.png](https://i.postimg.cc/Wbrc5K0T/Screenshot-11.png)](https://postimg.cc/tYXcTBrM)
+That being said
+_<p align="center">To the Front... to the Back... End to End... cut no slack. Making ends meet. lol</p>_
