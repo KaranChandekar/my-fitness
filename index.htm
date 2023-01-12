@@ -5,47 +5,81 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+    <!-- Font Awesome Link  -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+      integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
     <!-- Styles  -->
     <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/font-awesome.min.css" />
     <link rel="stylesheee" href="css/aos.css" />
     <!--main page css-->
-    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/style.css" />
 
     <title>My Fitness</title>
   </head>
   <body>
-    <header class="header">
-      <div class="left">
-        <img src="gym.png" />
-        <div>Karan Fitness</div>
-      </div>
-      <div class="mid">
-        <ul class="navbar">
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Fitness Calculator</a></li>
-          <li><a href="#">Contact Us</a></li>
-        </ul>
-      </div>
-      <div class="right">
-        <button class="btn">Call Us</button
-        ><button class="btn">Email Us</button>
-      </div>
-    </header>
-    <div class="container">
-      <h1>Join the best Gym in Nagpur now</h1>
-      <form action="noaction.php">
-        <div class="form-group">
-          <input type="text" placeholder="Enter your Name" />
-          <input type="text" placeholder="Enter your Age" />
-          <input type="text" placeholder="Enter your Gender" />
-          <input type="text" placeholder="Enter your Locality" />
-          <input type="text" placeholder="Enter your Phone Number" />
-          <input type="text" placeholder="Enter your Email ID" />
+    <!-- MENU BAR -->
+    <nav class="navbar navbar-expand-lg fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">MyFitness</a>
+
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-lg-auto">
+            <li class="nav-item">
+              <a href="#home" class="nav-link smoothScroll">Home</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="#about" class="nav-link smoothScroll">About Us</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="#class" class="nav-link smoothScroll">Classes</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="#schedule" class="nav-link smoothScroll">Schedules</a>
+            </li>
+
+            <li class="nav-item">
+              <a href="#contact" class="nav-link smoothScroll">Contact</a>
+            </li>
+          </ul>
+
+          <ul class="social-icon ml-lg-3">
+            <li>
+              <a
+                href="https://twitter.com/_Jaystwt"
+                class="fa-brands fa-twitter"
+              ></a>
+            </li>
+            <li><a href="#" class="fa-brands fa-linkedin"></a></li>
+            <li>
+              <a
+                href="https://www.instagram.com/ig_jayparmar/"
+                class="fa-brands fa-instagram"
+              ></a>
+            </li>
+          </ul>
         </div>
-        <button class="btn">Submit</button>
-      </form>
-    </div>
+      </div>
+    </nav>
   </body>
 </html>
