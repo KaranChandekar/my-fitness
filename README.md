@@ -12,7 +12,7 @@ My Fitness is a gym website created using HTML, CSS and JavaScript - [Take a loo
 - Bootstrap (CSS Framework)
 - jQuery (JavaScript Framework)
 - smoothscroll (JavaScript library)
-- - [Awesomeness](https://www.wikihow.com/Love-Programming) - Strictly for the love of coding :-)
+- [Awesomeness](https://www.wikihow.com/Love-Programming) - Strictly for the love of coding :-)
 
 ## Screenshot
 
